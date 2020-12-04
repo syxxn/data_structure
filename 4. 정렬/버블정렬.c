@@ -36,7 +36,7 @@ int main() {
 
 	size = sizeof(arr) / sizeof(int);
 
-	printf("---------selection sort------------");
+	printf("---------bubble sort------------");
 	printArr(arr, size);
 	bubbleSort(arr, size);
 
