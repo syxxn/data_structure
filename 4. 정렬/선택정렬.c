@@ -1,4 +1,5 @@
 //값을 찾아서 앞에서부터 채워짐
+//시간 복잡도는 n^2
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,4 +1,5 @@
 //뒤에부터 차기 시작함
+//시간 복잡도는 n^2
 #include <stdio.h>
 #include <stdlib.h>
 
